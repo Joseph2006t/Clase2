@@ -1,0 +1,39 @@
+.background-1{
+    width: 100%;
+    background-color: black;
+    background-attachment: fixed;  
+    background-position: center;  
+    background-repeat: no-repeat;  
+    background-size: cover;  
+}
+
+.fondo-1{
+    width: 100%;
+    height:100vh; 
+    background-color: black; 
+    background-attachment: fixed;  
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+.img-women{
+    margin-top: 4em;
+    max-width: 100%; 
+}
+.see-more{
+    color: white;
+}
+
+.center-align2{
+    color: wheat;
+    font-size:40px;
+}
+
+.title-welcome{
+    color:white;
+    margin-top: 4em;
+    font-size: 60
+}
+
+.nav-wrapper{
+    background-color: red;
+}
